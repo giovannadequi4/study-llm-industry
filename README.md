@@ -21,11 +21,9 @@ Foram selecionadas de 3 a 5 fontes (artigos científicos e materiais técnicos) 
 
 ### Fontes utilizadas
 
-- Artigo 1 – (inserir link)  
-- Artigo 2 – (inserir link)  
-- Artigo 3 – (inserir link)  
-- Artigo 4 – (inserir link)  
-- Artigo 5 – (inserir link)  
+- [CoLLM: Industrial Large–Small Model Collaboration With Fuzzy Decision-Making Agent and Self-Reflection](CoLLM.pdf)  
+- [Development of Autonomous Failure Maintenance System for Semiconductor Manufacturing](Development.pdf)  
+- [Distributed Computing with Language Models at the Edge: A Framework and Prototype](Distributed.pdf)  
 
 ### Critérios de escolha
 
