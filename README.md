@@ -19,7 +19,7 @@ A proposta é estruturar o aprendizado antes da leitura aprofundada dos artigos,
 
 Foram selecionadas de 3 a 5 fontes (artigos científicos e materiais técnicos) relacionadas ao tema.
 
-### Fontes utilizadas
+### Algumas Fontes públicas utilizadas
 
 - [CoLLM: Industrial Large–Small Model Collaboration With Fuzzy Decision-Making Agent and Self-Reflection](CoLLM.pdf)  
 - [Development of Autonomous Failure Maintenance System for Semiconductor Manufacturing](Development.pdf)  
